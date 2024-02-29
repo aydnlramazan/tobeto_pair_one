@@ -23,4 +23,4 @@ This project includes the TOBETO education platform application developed using 
 ![Simulator Screenshot - iPhone 15 Pro Max - Courses Screen](https://github.com/aydnlramazan/tobeto_pair_one/assets/106530954/5c6ccfdd-cf52-44fd-b33e-73d4db86096e)
 ### Courses Screen
 ![Simulator Screenshot - iPhone 15 Pro Max - Video Player](https://github.com/aydnlramazan/tobeto_pair_one/assets/106530954/00b9b656-f861-4f2d-8e0f-79dc0a023385)
-### Video Player
+### Video Player
