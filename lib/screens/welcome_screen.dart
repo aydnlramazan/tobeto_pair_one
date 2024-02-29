@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:tobeto_pair_one/screens/home_screen.dart';
+import 'package:tobeto_pair_one/widget/my_app.dart';
+import 'package:tobeto_pair_one/widget/my_app.dart';
 
 class WelcomeScreen extends StatelessWidget {
   const WelcomeScreen({Key? key}) : super(key: key);
@@ -30,10 +32,8 @@ class WelcomeScreen extends StatelessWidget {
             ),
             ElevatedButton(
                 onPressed: () {
-                  Navigator.push(
-                      context,
-                      MaterialPageRoute(
-                          builder: (context) => const HomeScreen()));
+                  Navigator.push(context,
+                      MaterialPageRoute(builder: (context) => HomeScreen()));
                 },
                 child: const Icon(Icons.next_plan))
           ],

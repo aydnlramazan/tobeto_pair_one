@@ -1,8 +1,12 @@
+import 'dart:math';
+
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:tobeto_pair_one/blocs/auth_bloc/auth_bloc.dart';
 import 'package:tobeto_pair_one/blocs/auth_bloc/auth_event.dart';
 import 'package:tobeto_pair_one/screens/home_screen.dart';
+import 'package:tobeto_pair_one/widget/my_app.dart';
+import 'package:tobeto_pair_one/widget/my_app.dart';
 import 'package:tobeto_pair_one/screens/reviews_screen.dart';
 import 'package:tobeto_pair_one/video_uploader.dart';
 
