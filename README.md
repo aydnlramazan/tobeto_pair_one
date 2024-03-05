@@ -18,9 +18,14 @@ This project includes the TOBETO education platform application developed using 
 ## Screeenshots 
 
 
-![Simulator Screenshot - iPhone 15 Pro Max - Drawer](https://github.com/aydnlramazan/tobeto_pair_one/assets/106530954/649c294e-3e40-469f-ae30-b825f18d7622)
-### Drawer
-![Simulator Screenshot - iPhone 15 Pro Max - Courses Screen](https://github.com/aydnlramazan/tobeto_pair_one/assets/106530954/5c6ccfdd-cf52-44fd-b33e-73d4db86096e)
-### Courses Screen
-![Simulator Screenshot - iPhone 15 Pro Max - Video Player](https://github.com/aydnlramazan/tobeto_pair_one/assets/106530954/00b9b656-f861-4f2d-8e0f-79dc0a023385)
-### Video Player
+### Project Presentation
+<img width="698" alt="Ekran Resmi 2024-03-05 20 45 13" src="https://github.com/aydnlramazan/tobeto_pair_one/assets/106530954/759836fd-5047-4300-bf42-2c55e9794dcd">
+
+### Workspace
+<img width="311" alt="Ekran Resmi 2024-03-05 20 44 57" src="https://github.com/aydnlramazan/tobeto_pair_one/assets/106530954/0acf80bb-ea1a-407d-8a87-aff4ea5a472b">
+
+
+### UI Kit
+<img width="727" alt="Ekran Resmi 2024-03-05 20 44 40" src="https://github.com/aydnlramazan/tobeto_pair_one/assets/106530954/0e813765-f3ef-478d-8e40-f9d07387016b">
+
+
