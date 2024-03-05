@@ -28,4 +28,5 @@ This project includes the TOBETO education platform application developed using 
 ### UI Kit
 <img width="727" alt="Ekran Resmi 2024-03-05 20 44 40" src="https://github.com/aydnlramazan/tobeto_pair_one/assets/106530954/0e813765-f3ef-478d-8e40-f9d07387016b">
 
-
+### Project Link
+https://www.figma.com/file/yxAhD5C3ETRxE07PtLZj3r/Tobeto-App?type=design&node-id=58%3A8344&mode=dev&t=I8xyYJPoI5dO8ItL-1
